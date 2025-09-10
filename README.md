@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Syeda Hira Batool</h1>
 <h3 align="center">curious mind, creative code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-hira-batool&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-hira-batool" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=syeda-hira-batool" alt="syeda-hira-batool" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-hira-batool&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-hira-batool" /> </p>
 
 - 🔭 I’m currently working on **learning python and C++**
 
