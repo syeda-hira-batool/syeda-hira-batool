@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syeda Hira Batool</h1>
 <h3 align="center">curious mind, creative code</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-hira-batool&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-hira-batool" /> </p>
 
 - 🔭 I’m currently working on **learning python and C++**
@@ -20,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/syeda-hira-batool-759419371/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/syeda-hira-batool-759419371/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syeda-hira-batool&show_icons=true&locale=en" alt="syeda-hira-batool" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeda-hira-batool&" alt="syeda-hira-batool" /></p>
+
