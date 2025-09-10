@@ -11,8 +11,6 @@
 
 - 🤝 I’m looking for help with **improving my skills and maximizing their potential.**
 
-- 💬 Ask me about **fun coding projects**
-
 - 📫 How to reach me **ic.shirabatool09@gmail.com**
 
 - ⚡ Fun fact **I have an insane level of creativity**
@@ -29,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syeda-hira-batool&show_icons=true&locale=en" alt="syeda-hira-batool" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeda-hira-batool&" alt="syeda-hira-batool" /></p>
-
