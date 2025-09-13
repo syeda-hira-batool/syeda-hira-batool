@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-hira-batool&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-hira-batool" /> </p>
 
-- 🔭 I’m currently working on **learning python and C++**
+- 🔭 I’m currently working on **1. learning python 2. C++**
 
 - 🌱 I’m currently learning **C++**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ic.shirabatool09@gmail.com**
 
-- ⚡ Fun fact **I have an insane level of creativity**
+- ⚡ Fun fact ***I have an insane level of creativity***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
