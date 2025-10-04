@@ -3,13 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-hira-batool&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-hira-batool" /> </p>
 
-- 🔭 I’m currently working on **1. learning python 2. C++**
+- 🔭 I’m currently working on learning python
 
 - 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **beginner projects and basic logic building algorithms**
 
 - 🤝 I’m looking for help with **improving my skills and maximizing their potential.**
+- 🎨 I love making content
 
 - 📫 How to reach me **ic.shirabatool09@gmail.com**
 
