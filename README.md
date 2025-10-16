@@ -9,7 +9,7 @@
 
 I’m **Syeda Hira Batool**, a passionate **Computer Science student at FAST–NUCES** who loves combining creativity with technology to make an impact.  
 
-I completed my **O Levels (4 A*s, 4 As)** from *Beacon Askari O Level School*, where I also served as **Head Girl** and Captain of both the **Cricket** and **Basketball** teams. Later, I finished my **A Levels (A BBB)** from *Alpha College*, where I worked as a **Teaching Assistant (TA)** for Physics and earned an **Award** and **Certificate of Appreciation** for my contributions.  
+I completed my **O Levels** from *Beacon Askari O Level School*, where I also served as **Head Girl** and Captain of both the **Cricket** and **Basketball** teams. Later, I finished my **A Levels** from *Alpha College*, where I worked as a **Teaching Assistant (TA)** for Physics and earned an **Award** and **Certificate of Appreciation** for my contributions.  
 
 Beyond academics, I’ve been involved in **leadership, creative, and volunteering roles** — from co-heading the **Creatives Department in Spectrum**, to organizing community drives with **PAK ORG**, and leading my team to a **Runner-Up position in the MINDCRAFT event**.  
 
