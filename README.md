@@ -1,30 +1,57 @@
-<h1 align="center">Hi 👋, I'm Syeda Hira Batool</h1>
-<h3 align="center">curious mind, creative code</h3>
+# 👋 Hi there! I’m Syeda Hira Batool  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syeda-hira-batool&label=Profile%20views&color=0e75b6&style=flat" alt="syeda-hira-batool" /> </p>
+🎓 **BS Computer Science Student | FAST–NUCES**  
 
-- 🔭 I’m currently working on learning python
 
-- 🌱 I’m currently learning **C++**
+---
 
-- 👯 I’m looking to collaborate on **beginner projects and basic logic building algorithms**
+### 🌟 About Me  
 
-- 🤝 I’m looking for help with **improving my skills and maximizing their potential.**
-- 🎨 I love making content
+I’m **Syeda Hira Batool**, a passionate **Computer Science student at FAST–NUCES** who loves combining creativity with technology to make an impact.  
 
-- 📫 How to reach me **ic.shirabatool09@gmail.com**
+I completed my **O Levels (4 A*s, 4 As)** from *Beacon Askari O Level School*, where I also served as **Head Girl** and Captain of both the **Cricket** and **Basketball** teams. Later, I finished my **A Levels (A BBB)** from *Alpha College*, where I worked as a **Teaching Assistant (TA)** for Physics and earned an **Award** and **Certificate of Appreciation** for my contributions.  
 
-- ⚡ Fun fact ***I have an insane level of creativity***
+Beyond academics, I’ve been involved in **leadership, creative, and volunteering roles** — from co-heading the **Creatives Department in Spectrum**, to organizing community drives with **PAK ORG**, and leading my team to a **Runner-Up position in the MINDCRAFT event**.  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 🖥️ What I’m Into  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=syeda-hira-batool&show_icons=true&locale=en&layout=compact" alt="syeda-hira-batool" /></p>
+- 💻 Programming & Exploring Tech  
+- 🎥 Video Editing & Short Film Creation  
+- 🧠 Creative Problem Solving  
+- 🏆 Leadership & Team Management  
+- 🌍 Community Service & Event Organization  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syeda-hira-batool&show_icons=true&locale=en" alt="syeda-hira-batool" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syeda-hira-batool&" alt="syeda-hira-batool" /></p>
+### 🎬 Content & Creativity  
+
+Outside of coding, I’m a **content creator on Instagram**, where I share my love for **storytelling, editing, and creative visuals**.  
+I enjoy **video editing**, experimenting with cinematic effects, transitions, and sound design to bring stories to life.  
+
+> *“Creativity is intelligence having fun.”* — Albert Einstein  
+
+---
+
+### 🧰 Skills  
+
+**Technical:**  
+- Basic Programming (C/C++/Python)  
+- MS Office & Picsart  
+ 
+
+**Creative:**  
+- Video Editing (CapCut)  
+- Scriptwriting  
+- Photography  
+
+**Soft Skills:**  
+- Leadership | Communication | Teamwork | Event Management  
+
+---
+
+
+
+⭐ *“I aim to use technology and creativity to serve humanity — developing apps and projects that make life better, smarter, and more connected.”*  
+
