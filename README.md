@@ -38,7 +38,8 @@ I enjoy **video editing**, experimenting with cinematic effects, transitions, an
 
 **Technical:**  
 - Basic Programming (C/C++/Python)  
-- MS Office & Picsart  
+- MS Office & Picsart
+- Currently learning HTML/CSS/JAVA
  
 
 **Creative:**  
