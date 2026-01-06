@@ -21,24 +21,11 @@ Beyond academics, I actively engage in **leadership, creativity, and community-d
 
 ---
 
-## 🎥 Creative Side
-
-Outside of coding, I’m a **content creator on Instagram**, where I explore storytelling through visuals.  
-I enjoy experimenting with:
-- Cinematic effects  
-- Smooth transitions  
-- Sound design  
-- Visual storytelling  
-
----
-
 ## 🧰 Skills
 
 ### 💻 Technical
 - C / C++ / Python (Basic)
 - HTML / CSS / Java (Currently Learning)
-- MS Office
-- Picsart
 
 ### 🎨 Creative
 - Video Editing (CapCut)
