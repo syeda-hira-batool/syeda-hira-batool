@@ -1,49 +1,8 @@
 # Hi 👋 I'm Syeda Hira Batool  
 
 🎓 **Computer Science Student at FAST–NUCES**  
-💡 Passionate about blending **creativity with technology** to build meaningful and impactful solutions.
+![GIF](https://i.pinimg.com/originals/57/06/53/5706537e2eabdad10a00fa8b1f2cd40e.gif)
 
-I completed my **O Levels from Beacon Askari O Level School**, where I proudly served as **Head Girl**.  
-I later completed my **A Levels from Alpha College**, working as a **Teaching Assistant (TA) for Physics** and earning an **Award & Certificate of Appreciation** for my contributions.
-
-Beyond academics, I actively engage in **leadership, creativity, and community-driven initiatives**.
-
----
-
-## 🖥️ What I’m Into
-
-💻 Programming & Exploring Technology  
-🎥 Video Editing & Short Film Creation  
-🧠 Creative Problem Solving  
-🏆 Leadership & Team Management  
-🌍 Community Service & Event Organization  
-🎬 Content Creation & Storytelling  
-
----
-
-## 🧰 Skills
-
-### 💻 Technical
-- C / C++ / Python (Basic)
-- HTML / CSS / Java (Currently Learning)
-
-### 🎨 Creative
-- Video Editing (CapCut)
-- Scriptwriting
-- Photography
-
-### 🤝 Soft Skills
-- Leadership  
-- Communication  
-- Teamwork  
-- Event Management  
-
----
-
-## 🌟 Personal Motto
-> ⭐ *“I aim to use technology and creativity to serve humanity — developing apps and projects that make life better, smarter, and more connected.”*
-
----
 
 ✨ *Always learning. Always creating. Always growing.*
 
