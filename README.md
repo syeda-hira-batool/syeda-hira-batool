@@ -1,4 +1,4 @@
-# Hi 👋 I'm Syeda Hira Batool  
+# Hiiiiiii :> I'm Syeda Hira Batool  
 
 🎓 **Computer Science Student at FAST–NUCES**  
 
