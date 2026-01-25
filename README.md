@@ -1,6 +1,6 @@
 # hiiiiiii :> I'm Syeda Hira Batool  
 
-🎓 **Computer Science Student at FAST–NUCES**  
+🎓 **Computer Science Student at FAST–NUCES (khi)**  
 
 ![GIF](https://i.pinimg.com/originals/57/06/53/5706537e2eabdad10a00fa8b1f2cd40e.gif)
 
